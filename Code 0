@@ -27,7 +27,8 @@ coverage
 .nyc_output
 
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
-.grunt
+
+
 
 # Bower dependency directory (https://bower.io/)
 bower_components
@@ -40,7 +41,6 @@ build/Release
 
 # Dependency directories
 node_modules/
-jspm_packages/
 
 # TypeScript v1 declaration files
 typings/
