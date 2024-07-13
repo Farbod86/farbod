@@ -3,10 +3,8 @@ logs
 *.log
 npm-debug.log*
 red
-play api/report.html)
-report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.j
-# database
-pids
+ play api/report.html) 
+                                                            pids
 *.pid
 *.spid
 
