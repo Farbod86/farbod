@@ -1,10 +1,6 @@
 # Logs
 logs
-*.log
-npm-debug.log*
-red
- play api/report.html) 
-                                                            pids
+*.logred                                                            pids
 *.pid
 *.spid
 
