@@ -1,13 +1,7 @@
 # Logs
 logs
 *.logred                                                            pids
-*.piddistin*.lcov
-
-# nyc test coverage
-.nyc_output
-
-# Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
-# Find
+*.piddistin*.lcov filed
 # Bower dependency directory (https://bower.io/)
 bower_component
 
