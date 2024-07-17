@@ -1,10 +1,6 @@
 # Logs
 logs
-*.logred                                                            pids
-*.piddistin*.lcov filed
-# Bower dependency directory (https://bower.io/)
-bower_component
-
+*.logred   dot
 # node-waf configuration
 .lock-wscript
 
