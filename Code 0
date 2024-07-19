@@ -1,9 +1,6 @@
 # Logs
 logs
-*.logred   dot
-# node-waf configuration
-.lock-wscript
-
+*.logred   dot dot
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Relike
 
