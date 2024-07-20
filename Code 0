@@ -1,13 +1,6 @@
 # Logs
 logs
-*.logred   dot dot
-# Compiled binary addons (https://nodejs.org/api/addons.html)
-build/Relike
-
-# Dependency directories
-node_modules/
-
-# TypeScript v1 declaration files
+*.logred   dot dot moon TypeScript v1 declaration files
 typings/
 
 # TypeScript cache
