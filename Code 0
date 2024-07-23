@@ -5,9 +5,7 @@ typings/
 
 # TypeScript cache
 *.tsbuildinfo hitput of 'npm pack'
-*.tgz
-
-# Yarn Integrity file
+*.tgzmonk
 .yarn-integrity
 
 # dotenv environment variables file
