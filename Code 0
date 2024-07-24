@@ -2,12 +2,7 @@
 logs
 *.logred   dot dot moon TypeScript v1 declaration files
 typings/
-
-# TypeScript cache
-*.tsbuildinfo hitput of 'npm pack'
-*.tgzmonk
-.yarn-integrity
-
+monk
 # dotenv environment variables file
 .env
 .env.test
