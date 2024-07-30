@@ -5,13 +5,7 @@ typings/build
 # parcel-bundler cache (https://parceljs.org/)
 .cache meme
 
-# Nuxt.js build / generate 
-dist
-
-# Gatsb moonmoon 
-
-# Serverless directories
-.serverless/
+# Nuxt.js build / generate doge
 
 # FuseBox cache
 .fusebox/
