@@ -1,14 +1,6 @@
 # Logs
 logs
-*.logred   dot dot moon TypeScript v1 declaration files
-typings/build
-# parcel-bundler cache (https://parceljs.org/)
-.cache meme
-
-# Nuxt.js build / generate doge
-
-# FuseBox cache
-.fusebox/
+*.logred   dot dot moon TypeScript v1 declaration filesئثئث
 
 # DynamoDB Local files
 .dynamodb/
