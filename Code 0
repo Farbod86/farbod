@@ -2,19 +2,7 @@
 logs
 *.logred   dot dot moon TypeScript v1 declaration filesئثئث
 
-# DynamoDB Local files
-.dynamodb/
-
-# TernJS port file
-.tern-port
-
-# macOS
-.DS_Store
-
-# python
-pycache/
-
-# Ignore .husky for new contributors using lefthook while maintaining
+# DynamoDB Local filesmoonok while maintaining
 # backwards compatibility for past contributors
 .husky
 
