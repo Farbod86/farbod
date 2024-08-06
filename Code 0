@@ -7,7 +7,7 @@ logs
 .husky
 
 
-# VSCode
+# VSCode ascascsacs
 .vscode/launch.json
 packages/protocol/config.js
 .vercel
